@@ -1,4 +1,3 @@
 - Hi, I’m @sichen04
-- I'm major in Bioengineering
-- I’m currently learning everything
+- I'm major in biomedical engineering
 - How to reach me: chensy4@shanghaitech.edu.cn
